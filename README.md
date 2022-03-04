@@ -23,6 +23,6 @@ the st terminfo entry with the following command:
 See the man page for additional details.
 
 # Credits
-[](https://st.suckless.org/)
-Based on Aurélien APTEL <aurelien dot aptel at gmail dot com> bt source code.
+[st.suckless.org](https://st.suckless.org/)
+Based on Aurélien APTEL <aurelien.aptel@gmail.com> bt source code.
 
